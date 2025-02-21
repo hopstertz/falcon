@@ -42,6 +42,10 @@ Falcon offers a wide range of advanced scanning capabilities:
 ---
 
 ## 📥 Installation Steps
+First you should have latest version of Termux which is Version 118 or 119. and you should have all pakckages updated and python3 installed. run update of packages with python installation through below command
+```bash
+apt update -y && apt upgrade -y && apt install python -y
+```
 
 ### Clone This Repository
 To get started, clone the Falcon repository to your local machine:
@@ -51,40 +55,12 @@ cd falcon
 ```
 
 ### Install Dependencies
-Install all required modules using the following command:
-```bash
-pip install os re subprocess time socket ipaddress threading argparse json sys csv random fnmatch zlib marshal urllib pandas selenium beautifulsoup4 bs4 rich requests ping3 tqdm httpx termcolor base64 colorama datetime
-```
-
----
-
-## 🤝 Contribution Guidelines
-We welcome contributions from the community! To contribute:
-1. **Fork the repository**.
-2. **Create a new branch**:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. **Commit your changes**:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. **Push to the branch**:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. **Open a pull request** and describe your changes.
+Toool was made to do auto packages installation of all required library to run well a tool. For the first boot you should have active mobile data to let installation done well.
 
 ---
 
 ## 🛠️ Technologies Used
 - **Python**: Core programming language.
-- **Requests**: For HTTP requests.
-- **BeautifulSoup4**: For web scraping.
-- **Rich**: For terminal UI enhancements.
-- **Ping3**: For ICMP ping functionality.
-- **Colorama**: For colored terminal output.
-
 ---
 
 ## 🔒 License Information
@@ -94,7 +70,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📞 Support Information
 For support, join our Telegram channel:  
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue)](https://t.me/FalconSupport)
+[![Telegram admin](https://img.shields.io/badge/Telegram-Join%20Channel-blue)](https://t.me/sudotz)
+[![Telegram channel](https://img.shields.io/badge/Telegram-Join%20Channel-blue)](https://t.me/falconx6)
+[![Telegram channel 2](https://img.shields.io/badge/Telegram-Join%20Channel-blue)](https://t.me/Tech_orbit)
 
 ---
 
