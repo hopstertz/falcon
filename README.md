@@ -72,7 +72,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For support, join our Telegram channel:  
 [![Telegram admin](https://img.shields.io/badge/Telegram-Contact%20admin-blue)](https://t.me/sudotz)
 [![Telegram channel](https://img.shields.io/badge/Telegram-Join%20Channel-blue)](https://t.me/falconx6)
-[![Telegram channel 2](https://img.shields.io/badge/Telegram-Join%20Channel 2-blue)](https://t.me/Tech_orbit)
+[![Telegram channel 2](https://img.shields.io/badge/Telegram-Join%20Channel%202-blue)](https://t.me/Tech_orbit)
 
 ---
 
