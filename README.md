@@ -20,15 +20,6 @@ Watch a quick demo of Falcon in action:
 
 ---
 
-## 📸 Project Screenshots
-| Feature | Screenshot |
-|---------|------------|
-| Main Menu | ![Main Menu]([https://example.com/main-menu.png](https://i.ibb.co/7JDGDwvq/Screenshot-20250221-192356.jpg) |
-| CIDR Scanning | ![CIDR Scanning]([https://example.com/cidr-scanning.png](https://i.ibb.co/CKT1xPFm/Screenshot-20250222-194702-1.jpg) |
-| Subdomain Discovery | ![Subdomain Discovery]([https://example.com/subdomain-discovery.png](https://i.ibb.co/TD7YJKL8/Screenshot-20250222-194539-1.jpg) |
-
----
-
 ## 🚀 Features
 Falcon offers a wide range of advanced scanning capabilities:
 - **CIDR-Based Scanning**: Perform network scans using CIDR notation.
@@ -61,11 +52,6 @@ Toool was made to do auto packages installation of all required library to run w
 
 ## 🛠️ Technologies Used
 - **Python**: Core programming language.
----
-
-## 🔒 License Information
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 📞 Support Information
