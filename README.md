@@ -15,10 +15,10 @@
 
 ---
 
-## 🎥 Project Demo
+```## 🎥 Project Demo
 Watch a quick demo of Falcon in action:
 [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
+```
 ---
 
 ## 🚀 Features
@@ -44,6 +44,11 @@ To get started, clone the Falcon repository to your local machine:
 ```bash
 git clone https://github.com/MrMonsterTz/falcon.git
 cd falcon
+```
+### Execute script
+Run this to start using the script
+```bash
+python falcon
 ```
 
 ### Install Dependencies
