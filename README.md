@@ -38,6 +38,7 @@ To get started, clone the Falcon repository to your local machine:
 ```bash
 git clone https://github.com/hopstertz/falcon.git
 cd falcon
+cd X
 ```
 ### Execute script
 Run this to start using the script
