@@ -23,9 +23,9 @@ Watch a quick demo of Falcon in action:
 ## 📸 Project Screenshots
 | Feature | Screenshot |
 |---------|------------|
-| Main Menu | ![Main Menu](https://example.com/main-menu.png) |
-| CIDR Scanning | ![CIDR Scanning](https://example.com/cidr-scanning.png) |
-| Subdomain Discovery | ![Subdomain Discovery](https://example.com/subdomain-discovery.png) |
+| Main Menu | ![Main Menu]([https://example.com/main-menu.png](https://i.ibb.co/7JDGDwvq/Screenshot-20250221-192356.jpg)) |
+| CIDR Scanning | ![CIDR Scanning]([https://example.com/cidr-scanning.png](https://i.ibb.co/CKT1xPFm/Screenshot-20250222-194702-1.jpg)) |
+| Subdomain Discovery | ![Subdomain Discovery]([https://example.com/subdomain-discovery.png](https://i.ibb.co/TD7YJKL8/Screenshot-20250222-194539-1.jpg)) |
 
 ---
 
