@@ -15,12 +15,6 @@
 
 ---
 
-```## 🎥 Project Demo
-Watch a quick demo of Falcon in action:
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-```
----
-
 ## 🚀 Features
 Falcon offers a wide range of advanced scanning capabilities:
 - **CIDR-Based Scanning**: Perform network scans using CIDR notation.
