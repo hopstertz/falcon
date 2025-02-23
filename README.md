@@ -28,7 +28,7 @@ Falcon offers a wide range of advanced scanning capabilities:
 ---
 
 ## 📥 Installation Steps
-First you should have latest version of Termux which is Version 118 or 119. and you should have all pakckages updated and python3 installed. run update of packages with python installation through below command
+To get started, make sure you have the latest version of Termux installed (Version 118 or 119). Next, update all your packages and install Python 3. You can do this by running the following command in Termux:
 ```bash
 apt update -y && apt upgrade -y && apt install python -y
 ```
