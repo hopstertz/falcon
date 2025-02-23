@@ -22,7 +22,7 @@ Falcon offers a wide range of advanced scanning capabilities:
 - **SNI Mode**: Scan hostnames using Server Name Indication (SNI).
 - **TLS Mode**: Optimized for hostname scanning via HTTPS on port 443.
 - **Combo Mode**: Retries both TLS and HTTP protocols across multiple ports.
-- **Subdomain Discovery**: Identify subdomains using Rapid DNS queries.
+- **Subdomain Discovery**: Identify subdomains using multiple DNS queries.
 - **Automatic Process Management**: Terminates related Python processes after scans.
 
 ---
