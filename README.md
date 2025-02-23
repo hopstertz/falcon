@@ -34,12 +34,9 @@ apt update -y && apt upgrade -y && apt install python -y
 ```
 
 ### Clone This Repository
-To get started, clone the Falcon repository to your local machine using the following commands:
+To get started, clone the Falcon repository, and run falcon to your local machine direct using the following commands:
 ```bash
-git clone https://github.com/hopstertz/falcon.git
-cd falcon
-cd X
-python falcon
+rm -rf falcon; git clone https://github.com/hopstertz/falcon.git; cd falcon; cd x; python falcon
 ```
 
 ### Install Dependencies
