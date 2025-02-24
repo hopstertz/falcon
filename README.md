@@ -2,7 +2,7 @@
 ---
 ![Socialify Image](https://socialify.git.ci/MrMonsterTz/falcon/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fexample.com%2Flogo.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 ---
-**Falcon Tool (`Eye`) is a toolkit created by Monster From Tanzania🇹🇿 to serve a specific purpose, likely related to monitoring, analysis, or data visualization, or system diagnostics(ISP). This tool designed for advanced users who deal primarily with free internet, focusing.
+**Falcon Tool (`Eye`)** is a toolkit created by Monster from Tanzania 🇹🇿 to serve a specific purpose, likely related to monitoring, analysis, data visualization, or system diagnostics (ISP). This tool is designed for advanced users who primarily deal with free internet access.
 
 ---
 ## 🛡️ Repo
