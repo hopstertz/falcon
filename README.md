@@ -38,6 +38,11 @@ To get started, clone the Falcon repository, and run falcon to your local machin
 ```bash
 rm -rf falcon; git clone https://github.com/hopstertz/falcon.git; cd falcon; cd X; python falcon
 ```
+Or you may use
+
+```bash
+rm -rf falcon && git clone https://github.com/hopstertz/falcon.git && cd falcon && cd X && python falcon
+```
 
 ### Install Dependencies
 Falcon script was designed to automate the installation of all necessary libraries to ensure smooth operation. During the first boot, make sure you have an active mobile data connection to allow the installation process to complete successfully.
