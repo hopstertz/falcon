@@ -1,4 +1,4 @@
-# Falcon - Advanced Network Scanning Tool [v1.3]
+# Falcon - Advanced Network Scanning Tool
 ---
 ![Socialify Image](https://socialify.git.ci/MrMonsterTz/falcon/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fexample.com%2Flogo.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 ---
@@ -43,12 +43,6 @@ Falcon script was designed to automate the installation of all necessary librari
 
 ## 🛠️ Technologies Used
 - **Python**: Core programming language.
----
-
-## Note
-
-- This is a **Beta v1.3** release. Please report any issues or bugs.
-
 ---
 
 ## Credits
