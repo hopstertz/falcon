@@ -33,16 +33,8 @@ To get started, make sure you have the latest version of Termux installed (Versi
 apt update -y && apt upgrade -y && apt install python -y
 ```
 
-### Clone This Repository
-To get started, clone the Falcon repository, and run falcon to your local machine direct using the following commands:
-```bash
-rm -rf falcon; git clone https://github.com/hopstertz/falcon.git; cd falcon; cd X; python falcon
-```
-Or you may use
-
-```bash
-rm -rf falcon && git clone https://github.com/hopstertz/falcon.git && cd falcon && cd X && python falcon
-```
+### Download From realese
+Installation Code: [View Latest version install codes](https://github.com/hopstertz/falcon/releases/)
 
 ### Install Dependencies
 Falcon script was designed to automate the installation of all necessary libraries to ensure smooth operation. During the first boot, make sure you have an active mobile data connection to allow the installation process to complete successfully.
@@ -62,7 +54,6 @@ Falcon script was designed to automate the installation of all necessary librari
 ## Credits
 
 - **Developer**: Monster
-- **Version**: Beta v1.3
 ---
 
 ## 📞 Support Information
